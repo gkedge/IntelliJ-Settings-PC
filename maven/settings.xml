@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<settings xmlns="http://maven.apache.org/SETTINGS/1.0.0"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://maven.apache.org/SETTINGS/1.0.0
+           http://maven.apache.org/xsd/settings-1.0.0.xsd">
+
+    <offline>true</offline>
+
+    <mirrors>
+        <mirror>
+            <!--This sends everything else to /public -->
+            <id>nexus</id>
+            <mirrorOf>central</mirrorOf>
+            <url>http://10.20.7.91:8080/nexus/content/groups/public/</url>
+        </mirror>
+    </mirrors>
+    <profiles>
+        <profile>
+            <id>nexus</id>
+            <!--Enable snapshots for the built in central repo to direct -->
+            <!--all requests to nexus via the mirror -->
+            <repositories>
+                <repository>
+                    <id>snapshots</id>
+                    <url>http://10.20.7.9:8080/nexus/content/repositories/sonatype-snapshots/</url>
+                    <releases>
+                        <enabled>true</enabled>
+                    </releases>
+                    <snapshots>
+                        <enabled>true</enabled>
+                    </snapshots>
+                </repository>
+
+                <repository>
+                    <id>central</id>
+                    <url>http://central</url>
+                    <releases>
+                        <enabled>true</enabled>
+                    </releases>
+                    <snapshots>
+                        <enabled>true</enabled>
+                    </snapshots>
+                </repository>
+            </repositories>
+            <pluginRepositories>
+                <pluginRepository>
+                    <id>central</id>
+                    <url>http://central</url>
+                    <releases>
+                        <enabled>true</enabled>
+                    </releases>
+                    <snapshots>
+                        <enabled>true</enabled>
+                    </snapshots>
+                </pluginRepository>
+                <pluginRepository>
+                    <id>snapshots</id>
+                    <url>http://10.20.7.91:8080/nexus/content/repositories/sonatype-snapshots/</url>
+                    <releases>
+                        <enabled>true</enabled>
+                    </releases>
+                    <snapshots>
+                        <enabled>true</enabled>
+                    </snapshots>
+                </pluginRepository>
+            </pluginRepositories>
+        </profile>
+    </profiles>
+    <activeProfiles>
+        <!--make the profile active all the time -->
+        <activeProfile>nexus</activeProfile>
+    </activeProfiles>
+</settings>
