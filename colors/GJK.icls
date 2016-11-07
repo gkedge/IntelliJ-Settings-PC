@@ -3594,6 +3594,13 @@
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CEVEN_ABBREVIATED_TEXT_ABBREVIATED_TEXT">
+      <value>
+        <option name="BACKGROUND" value="3300" />
+        <option name="EFFECT_COLOR" value="2f53a7" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CEVEN_ANCHOR">
       <value>
         <option name="BACKGROUND" value="83c23" />
@@ -8881,6 +8888,13 @@
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CODD_ABBREVIATED_TEXT_ABBREVIATED_TEXT">
+      <value>
+        <option name="BACKGROUND" value="3838" />
+        <option name="EFFECT_COLOR" value="2f53a7" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CODD_ANCHOR">
       <value>
         <option name="BACKGROUND" value="83e41" />
@@ -9952,6 +9966,13 @@
       <value>
         <option name="BACKGROUND" value="454500" />
         <option name="EFFECT_COLOR" value="2b8ccc" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_RODD_CEVEN_ABBREVIATED_TEXT_ABBREVIATED_TEXT">
+      <value>
+        <option name="BACKGROUND" value="454500" />
+        <option name="EFFECT_COLOR" value="2f53a7" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -12105,8 +12126,8 @@
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="242729" />
-        <option name="BACKGROUND" value="52503a" />
+        <option name="FOREGROUND" value="3c3f41" />
+        <option name="BACKGROUND" value="ebe44a" />
         <option name="ERROR_STRIPE_COLOR" value="be9117" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
