@@ -16,9 +16,7 @@
   <option name="WRAP_COMMENTS" value="true" />
   <JSCodeStyleSettings>
     <option name="USE_SEMICOLON_AFTER_STATEMENT" value="false" />
-    <option name="SPACE_AFTER_TYPE_COLON" value="false" />
     <option name="ALIGN_OBJECT_PROPERTIES" value="1" />
-    <option name="ALIGN_MULTIPLE_ASSIGNMENTS" value="true" />
     <option name="USE_DOUBLE_QUOTES" value="false" />
     <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
