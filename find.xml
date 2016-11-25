@@ -4,9 +4,12 @@
     <option name="customScope" value="Project 'mobilytics-root'" />
     <option name="defaultScopeName" value="Project 'mobilytics-root'" />
     <option name="localCaseSensitive" value="true" />
+    <option name="regularExpressions" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project 'mobilytics-root'" />
+    <option name="FILE_MASK" value="*.spec.js" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -18,6 +21,7 @@
       <mask>*.mxml</mask>
       <mask>*.hbs</mask>
       <mask>*.js</mask>
+      <mask>*.spec.js</mask>
     </recentFileMasks>
   </component>
 </application>
