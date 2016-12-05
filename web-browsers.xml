@@ -1,8 +1,14 @@
 <application>
-  <component name="WebBrowsersConfiguration">
-    <browser id="ed04b31b-f067-4b49-be57-ca2a6c868247" name="Chrome" family="CHROME" path="C:/Program Files (x86)/Slimjet/slimjet.exe">
+  <component name="WebBrowsersConfiguration" default="first">
+    <browser id="ed04b31b-f067-4b49-be57-ca2a6c868247" name="SlimJet" family="CHROME" path="C:/Program Files (x86)/Slimjet/slimjet.exe">
       <settings>
         <use-custom-profile>true</use-custom-profile>
+        <user-data-dir>$APPLICATION_CONFIG_DIR$/chrome-user-data</user-data-dir>
+      </settings>
+    </browser>
+    <browser id="35304f88-45ad-4409-9a78-28d04af00533" name="Chrome" family="CHROME">
+      <settings>
+        <command-line-options>C:\Program Files (x86)\Slimjet\slimjet.exe</command-line-options>
         <user-data-dir>$APPLICATION_CONFIG_DIR$/chrome-user-data</user-data-dir>
       </settings>
     </browser>
