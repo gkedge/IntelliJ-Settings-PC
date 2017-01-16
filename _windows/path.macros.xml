@@ -1,7 +1,7 @@
 <application>
   <component name="PathMacrosImpl">
     <macro name="CATALINA_HOME" value="C:/Users/gkedge.CARD/Projects/tomcat/apache-tomcat-7.0.73" />
-    <macro name="KOTLIN_BUNDLED" value="C:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.2.5/plugins/Kotlin/kotlinc" />
-    <macro name="MAVEN_REPOSITORY" value="C:/Users/gkedge.CARD/.m2/repository" />
+    <macro name="KOTLIN_BUNDLED" value="C:\Program Files (x86)\JetBrains\IntelliJ IDEA 2016.3.2\plugins\Kotlin\kotlinc" />
+    <macro name="MAVEN_REPOSITORY" value="C:\Users\gkedge\.m2\repository" />
   </component>
 </application>
