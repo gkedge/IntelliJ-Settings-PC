@@ -3,6 +3,7 @@
     <option name="customScope" value="Project 'mobilytics-root'" />
     <option name="defaultScopeName" value="Project 'mobilytics-root'" />
     <option name="SEARCH_SCOPE" value="Project 'mobilytics-root'" />
+    <option name="FILE_MASK" value="pom.xml" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -15,8 +16,9 @@
       <mask>*.spec.js</mask>
       <mask>*.js</mask>
       <mask>*.java</mask>
-      <mask>*.pom</mask>
       <mask>*.jspx</mask>
+      <mask>*.pom</mask>
+      <mask>pom.xml</mask>
     </recentFileMasks>
   </component>
 </application>
