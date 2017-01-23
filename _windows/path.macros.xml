@@ -4,7 +4,7 @@
     <macro name="LP_HOST" value="localhost" />
     <macro name="LP_SERVER_CONFIG" value="C:/Users/gkedge/Projects/tomcat/MobixBase/LpBase/conf" />
     <macro name="LP_SERVER_DATA" value="C:/Users/gkedge/Projects/tomcat/MobixBase/LpBase/files" />
-    <macro name="MAVEN_REPOSITORY" value="C:\Users\gkedge\.m2\repository" />
+    <macro name="MAVEN_REPOSITORY" value="C:\Users\gkedge.CARD\.m2\repository" />
     <macro name="MBX_HOST" value="localhost" />
     <macro name="MBX_SERVER_CONFIG" value="C:/Users/gkedge/Projects/tomcat/MobixBase/StripedAlderBase/conf" />
   </component>
