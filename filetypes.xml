@@ -4,6 +4,8 @@
     <extensionMap>
       <mapping pattern="newSubscriberSearch.json" type="JSON" />
       <mapping pattern="SubjectSearchValidator" type="PLAIN_TEXT" />
+      <mapping pattern=".npmrc" type="PLAIN_TEXT" />
+      <mapping pattern=".reduxrc" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
       <mapping ext="info" type="PLAIN_TEXT" />
     </extensionMap>
