@@ -3,6 +3,7 @@
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.settings;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping pattern="newSubscriberSearch.json" type="JSON" />
+      <mapping pattern="AddEditDeviceForm.js" type="JavaScript" />
       <mapping pattern="SubjectSearchValidator" type="PLAIN_TEXT" />
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping pattern=".reduxrc" type="PLAIN_TEXT" />
