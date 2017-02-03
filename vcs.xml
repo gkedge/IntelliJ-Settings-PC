@@ -30,9 +30,13 @@
           <option name="url" value="https://github.com/gkedge/create-react-app" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/reactabular/column-extensions.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\gkedge.CARD\Projects\Mobix\IDEA" />
+    <option name="cloneParentDir" value="C:\Users\gkedge.CARD\Projects" />
   </component>
   <component name="VcsApplicationSettings">
     <option name="PATCH_STORAGE_LOCATION" value="C:\Users\gkedge.CARD\Projects\Mobilytics\branches\SubscriberSearchFormStateUI" />
