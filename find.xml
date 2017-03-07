@@ -13,13 +13,13 @@
       <mask>*.mxml</mask>
       <mask>*.hbs</mask>
       <mask>*.spec.js</mask>
-      <mask>*.pom</mask>
-      <mask>pom.xml</mask>
       <mask>*.sql</mask>
       <mask>*.xhtml</mask>
       <mask>*.js</mask>
       <mask>*.jspx</mask>
       <mask>*.java</mask>
+      <mask>*.pom</mask>
+      <mask>pom.xml</mask>
     </recentFileMasks>
   </component>
 </application>
