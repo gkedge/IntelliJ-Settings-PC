@@ -2,9 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="File '[CoreUICommon] - ...\CoreUICommon\src\main\java\com\mobix\view\bean\taskwizard\module\CommandConfigStep.java'" />
     <option name="defaultScopeName" value="File '[CoreUICommon] - ...\CoreUICommon\src\main\java\com\mobix\view\bean\taskwizard\module\CommandConfigStep.java'" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="File '[CoreUICommon] - ...\CoreUICommon\src\main\java\com\mobix\view\bean\taskwizard\module\CommandConfigStep.java'" />
+    <option name="FILE_MASK" value="*.less" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
