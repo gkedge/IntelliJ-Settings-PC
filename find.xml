@@ -3,6 +3,7 @@
     <option name="customScope" value="File '[CoreUICommon] - ...\CoreUICommon\src\main\java\com\mobix\view\bean\taskwizard\module\CommandConfigStep.java'" />
     <option name="defaultScopeName" value="File '[CoreUICommon] - ...\CoreUICommon\src\main\java\com\mobix\view\bean\taskwizard\module\CommandConfigStep.java'" />
     <option name="SEARCH_SCOPE" value="File '[CoreUICommon] - ...\CoreUICommon\src\main\java\com\mobix\view\bean\taskwizard\module\CommandConfigStep.java'" />
+    <option name="FILE_MASK" value="*.less" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -19,8 +20,8 @@
       <mask>*.pom</mask>
       <mask>pom.xml</mask>
       <mask>*.java</mask>
-      <mask>*.less</mask>
       <mask>*.jspx</mask>
+      <mask>*.less</mask>
     </recentFileMasks>
   </component>
 </application>
