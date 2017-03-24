@@ -1,0 +1,52 @@
+<application>
+  <component name="SettingsState">
+    <option name="host" value="https://git.emeraldpoolsolutions.com" />
+    <option name="token" value="6AXLMuXriYUKh1urbsSB" />
+    <option name="projects">
+      <list>
+        <ProjectDto>
+          <option name="httpUrl" value="https://git.emeraldpoolsolutions.com/gkedge/crisp.git" />
+          <option name="name" value="crisp" />
+          <option name="namespace" value="gkedge" />
+          <option name="sshUrl" value="git@git.emeraldpoolsolutions.com:gkedge/crisp.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://git.emeraldpoolsolutions.com/gkedge/mobix-idea.git" />
+          <option name="name" value="mobix-idea" />
+          <option name="namespace" value="gkedge" />
+          <option name="sshUrl" value="git@git.emeraldpoolsolutions.com:gkedge/mobix-idea.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://git.emeraldpoolsolutions.com/gkedge/react-audio-stream.git" />
+          <option name="name" value="react-audio-stream" />
+          <option name="namespace" value="gkedge" />
+          <option name="sshUrl" value="git@git.emeraldpoolsolutions.com:gkedge/react-audio-stream.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://git.emeraldpoolsolutions.com/gkedge/room-to-react.git" />
+          <option name="name" value="room-to-react" />
+          <option name="namespace" value="gkedge" />
+          <option name="sshUrl" value="git@git.emeraldpoolsolutions.com:gkedge/room-to-react.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://git.emeraldpoolsolutions.com/interview-examples/sys-config-ro-cache.git" />
+          <option name="name" value="sys-config-ro-cache" />
+          <option name="namespace" value="interview-examples" />
+          <option name="sshUrl" value="git@git.emeraldpoolsolutions.com:interview-examples/sys-config-ro-cache.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://git.emeraldpoolsolutions.com/tiff-to-png-app/png-client-scale.git" />
+          <option name="name" value="png-client-scale" />
+          <option name="namespace" value="tiff-to-png-app" />
+          <option name="sshUrl" value="git@git.emeraldpoolsolutions.com:tiff-to-png-app/png-client-scale.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://git.emeraldpoolsolutions.com/tiff-to-png-app/tiff-to-scaled-png-rest.git" />
+          <option name="name" value="tiff-to-scaled-png-rest" />
+          <option name="namespace" value="tiff-to-png-app" />
+          <option name="sshUrl" value="git@git.emeraldpoolsolutions.com:tiff-to-png-app/tiff-to-scaled-png-rest.git" />
+        </ProjectDto>
+      </list>
+    </option>
+  </component>
+</application>
