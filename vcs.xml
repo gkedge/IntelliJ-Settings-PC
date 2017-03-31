@@ -46,16 +46,12 @@
           <option name="url" value="https://github.com/jonnyreeves/fetch-readablestream.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://git.emeraldpoolsolutions.com" />
-          <option name="userName" value="gkedge" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://git.emeraldpoolsolutions.com/gkedge/react-audio-stream.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="/GregProjects" />
+    <option name="cloneParentDir" value="C:\Users\gkedge.CARD\Projects" />
+  </component>
+  <component name="VcsApplicationSettings">
+    <option name="PATCH_STORAGE_LOCATION" value="C:\Users\gkedge.CARD\Projects\Mobilytics\branches\SubscriberSearchFormStateUI" />
+    <option name="SHOW_LST_WORD_DIFFERENCES" value="false" />
   </component>
 </application>
