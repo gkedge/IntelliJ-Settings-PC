@@ -3,8 +3,11 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="preserveCase" value="true" />
+    <option name="regularExpressions" value="true" />
     <option name="PRESERVE_CASE_REPLACE" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -17,12 +20,12 @@
       <mask>*.spec.js</mask>
       <mask>*.sql</mask>
       <mask>*.xhtml</mask>
-      <mask>*.js</mask>
       <mask>*.pom</mask>
       <mask>pom.xml</mask>
       <mask>*.java</mask>
       <mask>*.jspx</mask>
       <mask>*.less</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
