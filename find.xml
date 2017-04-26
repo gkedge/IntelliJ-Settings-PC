@@ -5,11 +5,8 @@
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*.xhtml" />
     <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
       <mask>*.xml</mask>
       <mask>*.as</mask>
       <mask>*.css</mask>
@@ -17,12 +14,10 @@
       <mask>*.hbs</mask>
       <mask>*.spec.js</mask>
       <mask>*.sql</mask>
-      <mask>*.xhtml</mask>
       <mask>*.pom</mask>
       <mask>*.jspx</mask>
       <mask>*.less</mask>
       <mask>*.p</mask>
-      <mask>*.</mask>
       <mask>pom.xml</mask>
       <mask>pom.xm</mask>
       <mask>pom.x</mask>
@@ -34,8 +29,14 @@
       <mask>*.java</mask>
       <mask>*.jav</mask>
       <mask>*.ja</mask>
-      <mask>*.j</mask>
       <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.xhtm</mask>
+      <mask>*.xht</mask>
+      <mask>*.xh</mask>
+      <mask>*.</mask>
+      <mask>*.x</mask>
+      <mask>*.xhtml</mask>
     </recentFileMasks>
   </component>
 </application>
