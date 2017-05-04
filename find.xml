@@ -6,7 +6,6 @@
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.xml</mask>
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
@@ -34,8 +33,9 @@
       <mask>*.ja</mask>
       <mask>*.</mask>
       <mask>*.j</mask>
-      <mask>*.js</mask>
       <mask>*.jspx</mask>
+      <mask>*.jsx</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
