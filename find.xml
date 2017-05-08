@@ -5,11 +5,8 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.jspx" />
     <recentFileMasks>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*.hbs</mask>
       <mask>*.spec.js</mask>
       <mask>*.sql</mask>
       <mask>*.pom</mask>
@@ -32,10 +29,14 @@
       <mask>*.jav</mask>
       <mask>*.ja</mask>
       <mask>*.</mask>
-      <mask>*.j</mask>
-      <mask>*.jspx</mask>
       <mask>*.jsx</mask>
+      <mask>*.jpsx</mask>
+      <mask>*.jps</mask>
+      <mask>*.jp</mask>
+      <mask>*.j</mask>
       <mask>*.js</mask>
+      <mask>*.jsp</mask>
+      <mask>*.jspx</mask>
     </recentFileMasks>
   </component>
 </application>
