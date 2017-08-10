@@ -1,7 +1,18 @@
 <code_scheme name="Mobix">
   <option name="LINE_SEPARATOR" value="&#10;" />
+  <option name="LAYOUT_STATIC_IMPORTS_SEPARATELY" value="false" />
+  <option name="USE_FQ_CLASS_NAMES" value="true" />
   <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
   <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
+  <option name="IMPORT_LAYOUT_TABLE">
+    <value>
+      <package name="java" withSubpackages="true" static="false" />
+      <package name="javax" withSubpackages="true" static="false" />
+      <package name="org" withSubpackages="true" static="false" />
+      <package name="com" withSubpackages="true" static="false" />
+      <package name="" withSubpackages="true" static="false" />
+    </value>
+  </option>
   <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
   <option name="JD_DO_NOT_WRAP_ONE_LINE_COMMENTS" value="true" />
   <option name="JD_PRESERVE_LINE_FEEDS" value="true" />
@@ -57,6 +68,7 @@
     <option name="BLANK_LINES_AFTER_ANONYMOUS_CLASS_HEADER" value="1" />
     <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
     <option name="ALIGN_MULTILINE_RESOURCES" value="false" />
+    <option name="SPACE_AFTER_SEMICOLON" value="false" />
     <option name="CALL_PARAMETERS_WRAP" value="1" />
     <option name="METHOD_PARAMETERS_WRAP" value="1" />
     <option name="RESOURCE_LIST_WRAP" value="5" />
@@ -69,10 +81,10 @@
     <option name="BINARY_OPERATION_SIGN_ON_NEXT_LINE" value="true" />
     <option name="TERNARY_OPERATION_WRAP" value="5" />
     <option name="ARRAY_INITIALIZER_WRAP" value="1" />
-    <option name="METHOD_ANNOTATION_WRAP" value="0" />
-    <option name="CLASS_ANNOTATION_WRAP" value="0" />
-    <option name="FIELD_ANNOTATION_WRAP" value="0" />
     <option name="PARENT_SETTINGS_INSTALLED" value="true" />
+    <indentOptions>
+      <option name="USE_RELATIVE_INDENTS" value="true" />
+    </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="JSON">
     <indentOptions>
