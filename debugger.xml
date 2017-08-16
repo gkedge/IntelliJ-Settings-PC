@@ -68,9 +68,9 @@
       <evaluation-dialog-mode>CODE_FRAGMENT</evaluation-dialog-mode>
     </general>
     <debuggers>
-      <debugger id="javascript">
+      <debugger id="python">
         <configuration>
-          <custom-object-presentation />
+          <option name="watchReturnValues" value="true" />
         </configuration>
       </debugger>
     </debuggers>
