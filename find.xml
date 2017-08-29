@@ -3,23 +3,12 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="ModuleA*.java" />
     <recentFileMasks>
-      <mask>*.ja</mask>
-      <mask>*.js</mask>
-      <mask>*.xhtm</mask>
-      <mask>*.xht</mask>
-      <mask>*.xh</mask>
-      <mask>*.xjsp</mask>
-      <mask>*.xjs</mask>
       <mask>*.xj</mask>
       <mask>*.xst</mask>
       <mask>*.xs</mask>
       <mask>*</mask>
-      <mask>.</mask>
-      <mask>.ja</mask>
-      <mask>.jav</mask>
-      <mask>.java</mask>
-      <mask>*.java</mask>
       <mask>*.j</mask>
       <mask>*.pom</mask>
       <mask>*.po</mask>
@@ -34,6 +23,18 @@
       <mask>pom.</mask>
       <mask>pom.x</mask>
       <mask>pom.xml</mask>
+      <mask>.</mask>
+      <mask>.ja</mask>
+      <mask>.jav</mask>
+      <mask>.javaa</mask>
+      <mask>.java</mask>
+      <mask>*.java</mask>
+      <mask>M*.java</mask>
+      <mask>Mod*.java</mask>
+      <mask>Moduc*.java</mask>
+      <mask>Modu*.java</mask>
+      <mask>Module*.java</mask>
+      <mask>ModuleA*.java</mask>
     </recentFileMasks>
   </component>
 </application>
