@@ -17,7 +17,7 @@
     <exec>
       <option name="COMMAND" value="C:\Users\gkedge.CARD\Projects\Riptide\trunk\config\chrome-clear-crash.sh" />
       <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Projects/Riptide/trunk/config" />
+      <option name="WORKING_DIRECTORY" value="C:/Users/gkedge.CARD/Projects/Riptide/trunk/config" />
     </exec>
   </tool>
 </toolSet>
