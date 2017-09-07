@@ -2,13 +2,11 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value=".java" />
     <recentFileMasks>
-      <mask>*.xj</mask>
-      <mask>*.xst</mask>
-      <mask>*.xs</mask>
-      <mask>*</mask>
-      <mask>*.j</mask>
       <mask>*.pom</mask>
       <mask>*.po</mask>
       <mask>*.p</mask>
@@ -25,8 +23,6 @@
       <mask>.</mask>
       <mask>.ja</mask>
       <mask>.jav</mask>
-      <mask>.javaa</mask>
-      <mask>.java</mask>
       <mask>*.java</mask>
       <mask>M*.java</mask>
       <mask>Mod*.java</mask>
@@ -34,6 +30,13 @@
       <mask>Modu*.java</mask>
       <mask>Module*.java</mask>
       <mask>ModuleA*.java</mask>
+      <mask>..java</mask>
+      <mask>.java.java</mask>
+      <mask>.javajava</mask>
+      <mask>.javaava</mask>
+      <mask>.javava</mask>
+      <mask>.javaa</mask>
+      <mask>.java</mask>
     </recentFileMasks>
   </component>
 </application>
