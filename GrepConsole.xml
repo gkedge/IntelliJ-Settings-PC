@@ -34,6 +34,7 @@
                     <GrepExpressionItem>
                       <option name="grepExpression" value=".*ERROR.*" />
                       <option name="id" value="65a40c12-c328-483a-be1d-755f5e893cba" />
+                      <option name="showCountInStatusBar" value="true" />
                       <option name="style">
                         <GrepStyle>
                           <option name="backgroundColor">
@@ -54,6 +55,7 @@
                     <GrepExpressionItem>
                       <option name="grepExpression" value=".*WARN.*" />
                       <option name="id" value="4cbb53ae-7bab-4b86-bcb4-671fb955cc41" />
+                      <option name="showCountInStatusBar" value="true" />
                       <option name="style">
                         <GrepStyle>
                           <option name="backgroundColor">
@@ -74,6 +76,7 @@
                     <GrepExpressionItem>
                       <option name="grepExpression" value=".*DEBUG.*" />
                       <option name="id" value="b988402a-c5bf-435f-8a04-e22b9c6f2754" />
+                      <option name="showCountInStatusBar" value="true" />
                       <option name="style">
                         <GrepStyle>
                           <option name="foregroundColor">
@@ -108,6 +111,7 @@
             </list>
           </option>
           <option name="id" value="1477093927865" />
+          <option name="multiLineOutput" value="true" />
         </Profile>
       </list>
     </option>
