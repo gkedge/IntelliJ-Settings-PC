@@ -30,6 +30,8 @@
       <mask>.ja</mask>
       <mask>.jav</mask>
       <mask>.javaa</mask>
+      <mask>.java</mask>
+      <mask>*.java</mask>
       <mask>M*.java</mask>
       <mask>Mod*.java</mask>
       <mask>Moduc*.java</mask>
