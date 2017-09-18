@@ -5,16 +5,10 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.py" />
     <recentFileMasks>
-      <mask>*.xj</mask>
-      <mask>*.xst</mask>
-      <mask>*.xs</mask>
-      <mask>*</mask>
-      <mask>*.j</mask>
-      <mask>*.pom</mask>
       <mask>*.po</mask>
       <mask>*.p</mask>
-      <mask>*.</mask>
       <mask>*.x</mask>
       <mask>*.xm</mask>
       <mask>*.xml</mask>
@@ -29,7 +23,6 @@
       <mask>.jav</mask>
       <mask>.javaa</mask>
       <mask>.java</mask>
-      <mask>*.java</mask>
       <mask>M*.java</mask>
       <mask>Mod*.java</mask>
       <mask>Moduc*.java</mask>
@@ -38,6 +31,12 @@
       <mask>ModuleA*.java</mask>
       <mask>.java</mask>
       <mask>*.java</mask>
+      <mask>*.java</mask>
+      <mask>*.jav</mask>
+      <mask>*.ja</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.py</mask>
     </recentFileMasks>
   </component>
 </application>
