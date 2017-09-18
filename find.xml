@@ -13,7 +13,6 @@
       <mask>*.pom</mask>
       <mask>*.po</mask>
       <mask>*.p</mask>
-      <mask>*.</mask>
       <mask>*.x</mask>
       <mask>*.xm</mask>
       <mask>*.xml</mask>
@@ -37,6 +36,12 @@
       <mask>.java</mask>
       <mask>*.java</mask>
       <mask>*.java</mask>
+      <mask>*.java</mask>
+      <mask>*.jav</mask>
+      <mask>*.ja</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.py</mask>
     </recentFileMasks>
   </component>
 </application>
