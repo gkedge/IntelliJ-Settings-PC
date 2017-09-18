@@ -1,15 +1,12 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>*.xj</mask>
-      <mask>*.xst</mask>
       <mask>*.xs</mask>
       <mask>*</mask>
       <mask>*.j</mask>
@@ -31,7 +28,6 @@
       <mask>.jav</mask>
       <mask>.javaa</mask>
       <mask>.java</mask>
-      <mask>*.java</mask>
       <mask>M*.java</mask>
       <mask>Mod*.java</mask>
       <mask>Moduc*.java</mask>
@@ -39,6 +35,7 @@
       <mask>Module*.java</mask>
       <mask>ModuleA*.java</mask>
       <mask>.java</mask>
+      <mask>*.java</mask>
       <mask>*.java</mask>
     </recentFileMasks>
   </component>
