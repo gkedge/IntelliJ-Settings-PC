@@ -1,12 +1,12 @@
 <application>
   <component name="PathMacrosImpl">
     <macro name="KOTLIN_BUNDLED" value="C:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.3.3/plugins/Kotlin/kotlinc" />
-    <macro name="LP_DATA_DIRECTORY" value="C:/Users/gkedge.CARD/Projects/MobixTrunkEclipse/.metadata/.plugins/org.eclipse.wst.server.core/tmp1/files" />
+    <macro name="LP_DATA_DIRECTORY" value="C:/Users/gkedge.CARD/Projects/tomcat/MobixBase/LpBase/conf/files" />
     <macro name="LP_HOST" value="localhost" />
-    <macro name="LP_SERVER_CONFIG" value="C:/Users/gkedge.CARD/Projects/MobixTrunkEclipse/Servers/LP Tomcat-config" />
+    <macro name="LP_SERVER_CONFIG" value="C:/Users/gkedge.CARD/Projects/tomcat/MobixBase/LpBase/conf" />
     <macro name="MAVEN_REPOSITORY" value="C:/Users/gkedge.CARD/.m2/repository" />
     <macro name="MBX_HOST" value="localhost" />
-    <macro name="MBX_SERVER_CONFIG" value="C:/Users/gkedge.CARD/Projects/MobixTrunkEclipse/Servers/StripedAlder-config" />
+    <macro name="MBX_SERVER_CONFIG" value="C:/Users/gkedge.CARD/Projects/tomcat/MobixBase/StripedAlderBase/conf" />
     <macro name="TOMCAT_HOME" value="C:/Users/gkedge.CARD/Projects/tomcat/apache-tomcat-7.0.73" />
   </component>
 </application>
