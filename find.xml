@@ -7,7 +7,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="mace_modules/*.py" />
+    <option name="FILE_MASK" value="*.py" />
     <recentFileMasks>
       <mask>*.j</mask>
       <mask>*.p</mask>
@@ -22,7 +22,6 @@
       <mask>,ac*.py</mask>
       <mask>,a*.py</mask>
       <mask>,*.py</mask>
-      <mask>*.py</mask>
       <mask>m*.py</mask>
       <mask>ma*.py</mask>
       <mask>mac*.py</mask>
@@ -39,6 +38,7 @@
       <mask>mace_modules\*.py</mask>
       <mask>mace_modules*.py</mask>
       <mask>mace_modules/*.py</mask>
+      <mask>*.py</mask>
     </recentFileMasks>
   </component>
 </application>
