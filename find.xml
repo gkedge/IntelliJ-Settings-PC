@@ -7,29 +7,8 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.py" />
+    <option name="FILE_MASK" value="mace_modules/*.py" />
     <recentFileMasks>
-      <mask>pom</mask>
-      <mask>pom.</mask>
-      <mask>pom.x</mask>
-      <mask>pom.xml</mask>
-      <mask>.</mask>
-      <mask>.ja</mask>
-      <mask>.jav</mask>
-      <mask>.javaa</mask>
-      <mask>.java</mask>
-      <mask>M*.java</mask>
-      <mask>Mod*.java</mask>
-      <mask>Moduc*.java</mask>
-      <mask>Modu*.java</mask>
-      <mask>Module*.java</mask>
-      <mask>ModuleA*.java</mask>
-      <mask>.java</mask>
-      <mask>*.java</mask>
-      <mask>*.java</mask>
-      <mask>*.java</mask>
-      <mask>*.jav</mask>
-      <mask>*.ja</mask>
       <mask>*.j</mask>
       <mask>*.p</mask>
       <mask>*.</mask>
@@ -38,7 +17,28 @@
       <mask>.xml</mask>
       <mask>we.xml</mask>
       <mask>web.xml</mask>
+      <mask>,ace+*.py</mask>
+      <mask>,ace*.py</mask>
+      <mask>,ac*.py</mask>
+      <mask>,a*.py</mask>
+      <mask>,*.py</mask>
       <mask>*.py</mask>
+      <mask>m*.py</mask>
+      <mask>ma*.py</mask>
+      <mask>mac*.py</mask>
+      <mask>mace*.py</mask>
+      <mask>mace_*.py</mask>
+      <mask>mace_m*.py</mask>
+      <mask>mace_mo*.py</mask>
+      <mask>mace_mod*.py</mask>
+      <mask>mace_moduce*.py</mask>
+      <mask>mace_moduc*.py</mask>
+      <mask>mace_modu*.py</mask>
+      <mask>mace_modul*.py</mask>
+      <mask>mace_module*.py</mask>
+      <mask>mace_modules\*.py</mask>
+      <mask>mace_modules*.py</mask>
+      <mask>mace_modules/*.py</mask>
     </recentFileMasks>
   </component>
 </application>
