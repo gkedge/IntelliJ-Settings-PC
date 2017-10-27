@@ -7,8 +7,6 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.py" />
     <recentFileMasks>
-      <mask>*.xml</mask>
-      <mask>.xml</mask>
       <mask>we.xml</mask>
       <mask>web.xml</mask>
       <mask>,ace+*.py</mask>
@@ -32,11 +30,13 @@
       <mask>mace_modules\*.py</mask>
       <mask>mace_modules*.py</mask>
       <mask>mace_modules/*.py</mask>
-      <mask>*.py</mask>
-      <mask>*.p</mask>
-      <mask>*.</mask>
-      <mask>*.jav</mask>
       <mask>*.java</mask>
+      <mask>*.jav</mask>
+      <mask>*.ja</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.py</mask>
     </recentFileMasks>
   </component>
 </application>
