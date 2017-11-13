@@ -12,6 +12,7 @@
       <mapping pattern=".reduxrc" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
       <mapping ext="info" type="PLAIN_TEXT" />
+      <mapping pattern="open_mic_stream_details" type="Python" />
       <mapping pattern="test_mobix_time" type="PythonStub" />
     </extensionMap>
   </component>
