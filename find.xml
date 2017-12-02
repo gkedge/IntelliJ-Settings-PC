@@ -4,10 +4,14 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
+    <option name="regularExpressions" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
+      <mask>we.xml</mask>
+      <mask>web.xml</mask>
       <mask>,ace+*.py</mask>
       <mask>,ace*.py</mask>
       <mask>,ac*.py</mask>
@@ -29,15 +33,13 @@
       <mask>mace_modules\*.py</mask>
       <mask>mace_modules*.py</mask>
       <mask>mace_modules/*.py</mask>
-      <mask>*.java</mask>
       <mask>*.jav</mask>
       <mask>*.ja</mask>
       <mask>*.j</mask>
-      <mask>*.o</mask>
-      <mask>*.</mask>
-      <mask>*.pt</mask>
-      <mask>*.p</mask>
       <mask>*.py</mask>
+      <mask>*.p</mask>
+      <mask>*.</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
