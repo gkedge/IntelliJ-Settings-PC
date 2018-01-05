@@ -4,17 +4,12 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
+    <option name="wholeWordsOnly" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>we.xml</mask>
-      <mask>web.xml</mask>
-      <mask>,ace+*.py</mask>
-      <mask>,ace*.py</mask>
-      <mask>,ac*.py</mask>
-      <mask>,a*.py</mask>
-      <mask>,*.py</mask>
       <mask>m*.py</mask>
       <mask>ma*.py</mask>
       <mask>mac*.py</mask>
@@ -35,9 +30,16 @@
       <mask>*.ja</mask>
       <mask>*.j</mask>
       <mask>*.py</mask>
-      <mask>*.p</mask>
-      <mask>*.</mask>
       <mask>*.java</mask>
+      <mask>*.p</mask>
+      <mask>*.pro</mask>
+      <mask>*.prop</mask>
+      <mask>*.proper</mask>
+      <mask>*.propert</mask>
+      <mask>*.properti</mask>
+      <mask>*.properties</mask>
+      <mask>*.propertie</mask>
+      <mask>*.</mask>
     </recentFileMasks>
   </component>
 </application>
