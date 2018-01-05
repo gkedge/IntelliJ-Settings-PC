@@ -10,13 +10,6 @@
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>m*.py</mask>
-      <mask>ma*.py</mask>
-      <mask>mac*.py</mask>
-      <mask>mace*.py</mask>
-      <mask>mace_*.py</mask>
-      <mask>mace_m*.py</mask>
-      <mask>mace_mo*.py</mask>
       <mask>mace_mod*.py</mask>
       <mask>mace_moduce*.py</mask>
       <mask>mace_moduc*.py</mask>
@@ -40,6 +33,13 @@
       <mask>*.properties</mask>
       <mask>*.propertie</mask>
       <mask>*.</mask>
+      <mask>w</mask>
+      <mask>we</mask>
+      <mask>web</mask>
+      <mask>web.</mask>
+      <mask>web.x</mask>
+      <mask>web.xm</mask>
+      <mask>web.xml</mask>
     </recentFileMasks>
   </component>
 </application>
