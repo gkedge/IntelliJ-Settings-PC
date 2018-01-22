@@ -5,12 +5,8 @@
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.less" />
     <recentFileMasks>
-      <mask>mace_mod*.py</mask>
-      <mask>mace_moduce*.py</mask>
-      <mask>mace_moduc*.py</mask>
-      <mask>mace_modu*.py</mask>
-      <mask>mace_modul*.py</mask>
       <mask>mace_module*.py</mask>
       <mask>mace_modules\*.py</mask>
       <mask>mace_modules*.py</mask>
@@ -28,7 +24,6 @@
       <mask>*.properti</mask>
       <mask>*.properties</mask>
       <mask>*.propertie</mask>
-      <mask>*.</mask>
       <mask>w</mask>
       <mask>we</mask>
       <mask>web</mask>
@@ -36,6 +31,12 @@
       <mask>web.x</mask>
       <mask>web.xm</mask>
       <mask>web.xml</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.l</mask>
+      <mask>*.le</mask>
+      <mask>*.les</mask>
+      <mask>*.less</mask>
     </recentFileMasks>
   </component>
 </application>
