@@ -7,20 +7,8 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.jspx" />
     <recentFileMasks>
-      <mask>mace_modules\*.py</mask>
-      <mask>mace_modules*.py</mask>
-      <mask>mace_modules/*.py</mask>
-      <mask>*.jav</mask>
-      <mask>*.ja</mask>
-      <mask>*.py</mask>
-      <mask>*.java</mask>
-      <mask>*.p</mask>
-      <mask>*.pro</mask>
-      <mask>*.prop</mask>
-      <mask>*.proper</mask>
-      <mask>*.propert</mask>
-      <mask>*.properti</mask>
       <mask>*.properties</mask>
       <mask>*.propertie</mask>
       <mask>w</mask>
@@ -36,8 +24,21 @@
       <mask>*.le</mask>
       <mask>*.l</mask>
       <mask>*.</mask>
+      <mask>*.x</mask>
+      <mask>*.xh</mask>
+      <mask>*.xht</mask>
+      <mask>*.xhtm</mask>
+      <mask>*.xhtml</mask>
+      <mask>*.jhtml</mask>
+      <mask>*.jxhtml</mask>
+      <mask>*.jxhtm</mask>
+      <mask>*.jxht</mask>
+      <mask>*.jxh</mask>
+      <mask>*.jx</mask>
       <mask>*.j</mask>
       <mask>*.js</mask>
+      <mask>*.jsp</mask>
+      <mask>*.jspx</mask>
     </recentFileMasks>
   </component>
 </application>
