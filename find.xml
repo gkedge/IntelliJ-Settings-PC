@@ -7,6 +7,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.less" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.propertie</mask>
@@ -18,7 +19,6 @@
       <mask>web.xm</mask>
       <mask>web.xml</mask>
       <mask>*</mask>
-      <mask>*.less</mask>
       <mask>*.les</mask>
       <mask>*.le</mask>
       <mask>*.l</mask>
@@ -38,6 +38,7 @@
       <mask>*.js</mask>
       <mask>*.jsp</mask>
       <mask>*.jspx</mask>
+      <mask>*.less</mask>
     </recentFileMasks>
   </component>
 </application>
