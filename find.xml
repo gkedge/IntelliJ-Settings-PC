@@ -5,10 +5,8 @@
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.sql" />
     <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.propertie</mask>
-      <mask>w</mask>
       <mask>we</mask>
       <mask>web</mask>
       <mask>web.</mask>
@@ -16,10 +14,6 @@
       <mask>web.xm</mask>
       <mask>web.xml</mask>
       <mask>*</mask>
-      <mask>*.les</mask>
-      <mask>*.le</mask>
-      <mask>*.l</mask>
-      <mask>*.</mask>
       <mask>*.x</mask>
       <mask>*.xh</mask>
       <mask>*.xht</mask>
@@ -36,6 +30,13 @@
       <mask>*.jsp</mask>
       <mask>*.jspx</mask>
       <mask>*.less</mask>
+      <mask>*.les</mask>
+      <mask>*.le</mask>
+      <mask>*.l</mask>
+      <mask>*.</mask>
+      <mask>*.s</mask>
+      <mask>*.sq</mask>
+      <mask>*.sql</mask>
     </recentFileMasks>
   </component>
 </application>
