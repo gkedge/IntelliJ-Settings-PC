@@ -11,35 +11,35 @@
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
     <option name="FILE_MASK" value="*.sql" />
     <recentFileMasks>
-      <mask>we</mask>
-      <mask>web</mask>
-      <mask>web.</mask>
-      <mask>web.x</mask>
-      <mask>web.xm</mask>
-      <mask>web.xml</mask>
-      <mask>*</mask>
-      <mask>*.x</mask>
-      <mask>*.xh</mask>
-      <mask>*.xht</mask>
-      <mask>*.xhtm</mask>
-      <mask>*.xhtml</mask>
-      <mask>*.jhtml</mask>
-      <mask>*.jxhtml</mask>
-      <mask>*.jxhtm</mask>
-      <mask>*.jxht</mask>
-      <mask>*.jxh</mask>
-      <mask>*.jx</mask>
-      <mask>*.j</mask>
-      <mask>*.js</mask>
-      <mask>*.jsp</mask>
-      <mask>*.jspx</mask>
-      <mask>*.less</mask>
-      <mask>*.les</mask>
-      <mask>*.le</mask>
-      <mask>*.l</mask>
-      <mask>*.</mask>
-      <mask>*.s</mask>
-      <mask>*.sq</mask>
+      <mask>.unit_test_reference_data.sql</mask>
+      <mask>.*unit_test_reference_data.sql</mask>
+      <mask>.*.unit_test_reference_data.sql</mask>
+      <mask>*.unit_test_reference_data.sql</mask>
+      <mask>*unit_test_reference_data.sql</mask>
+      <mask>unit_test_reference_data.sql</mask>
+      <mask>unit_test_referenc_data.sql</mask>
+      <mask>unit_test_referen_data.sql</mask>
+      <mask>unit_test_refere_data.sql</mask>
+      <mask>unit_test_refer_data.sql</mask>
+      <mask>unit_test_refe_data.sql</mask>
+      <mask>unit_test_ref_data.sql</mask>
+      <mask>unit_test_re_data.sql</mask>
+      <mask>unit_test_r_data.sql</mask>
+      <mask>unit_test__data.sql</mask>
+      <mask>unit_test_data.sql</mask>
+      <mask>*T.sql</mask>
+      <mask>*Te.sql</mask>
+      <mask>*Test.sql</mask>
+      <mask>*Test.sq</mask>
+      <mask>*Test.s</mask>
+      <mask>*Test.</mask>
+      <mask>*Test.jav</mask>
+      <mask>*Test.java</mask>
+      <mask>java</mask>
+      <mask>.java</mask>
+      <mask>.*</mask>
+      <mask>.</mask>
+      <mask>.*java</mask>
       <mask>*.sql</mask>
     </recentFileMasks>
   </component>
