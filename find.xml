@@ -5,17 +5,14 @@
     <option name="localCaseSensitive" value="true" />
     <option name="localRegularExpressions" value="true" />
     <option name="localWholeWordsOnly" value="true" />
+    <option name="regularExpressions" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.jspx" />
     <recentFileMasks>
-      <mask>.*unit_test_reference_data.sql</mask>
-      <mask>.*.unit_test_reference_data.sql</mask>
-      <mask>*.unit_test_reference_data.sql</mask>
-      <mask>*unit_test_reference_data.sql</mask>
-      <mask>unit_test_reference_data.sql</mask>
-      <mask>unit_test_referenc_data.sql</mask>
       <mask>unit_test_referen_data.sql</mask>
       <mask>unit_test_refere_data.sql</mask>
       <mask>unit_test_refer_data.sql</mask>
@@ -40,6 +37,12 @@
       <mask>.*java</mask>
       <mask>.java</mask>
       <mask>*.java</mask>
+      <mask>*.jav</mask>
+      <mask>*.ja</mask>
+      <mask>*.j</mask>
+      <mask>*.js</mask>
+      <mask>*.jsp</mask>
+      <mask>*.jspx</mask>
     </recentFileMasks>
   </component>
 </application>
