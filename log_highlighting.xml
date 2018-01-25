@@ -2,7 +2,7 @@
   <component name="LogHighlightingSettings">
     <Patterns>
       <list>
-        <LogHighlightingPattern pattern="\s+[Ee](rror)?(RROR)?\s+" action="HIGHLIGHT_LINE" fg="-65536" bold="true" />
+        <LogHighlightingPattern pattern="\s+[Ee](rror)?(RROR)?\s+" fg="-65536" bold="true" stripe="true" />
         <LogHighlightingPattern pattern="\s+[Ww](arning)?(ARNING)?\s*" action="HIGHLIGHT_LINE" fg="-22016" bold="true" />
         <LogHighlightingPattern pattern="\s+[In](nfo)?(NFO)?\s*" action="HIGHLIGHT_LINE" fg="-12599489" />
         <LogHighlightingPattern pattern="\s+[Dd](ebug)?(EBUG)?\s*" fg="-4408132" stripe="true" />
