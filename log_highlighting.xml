@@ -1,0 +1,21 @@
+<application>
+  <component name="LogHighlightingSettings">
+    <Patterns>
+      <list>
+        <LogHighlightingPattern pattern="\s+[Ee](rror)?(RROR)?\s+" fg="-65536" bold="true" stripe="true" />
+        <LogHighlightingPattern pattern="\s+[Ww](arning)?(ARNING)?\s*" action="HIGHLIGHT_LINE" fg="-22016" bold="true" />
+        <LogHighlightingPattern pattern="\s+[In](nfo)?(NFO)?\s*" action="HIGHLIGHT_LINE" fg="-12599489" />
+        <LogHighlightingPattern pattern="\s+[Dd](ebug)?(EBUG)?\s*" fg="-4408132" stripe="true" />
+      </list>
+    </Patterns>
+    <parsing>
+      <list>
+        <LogParsingPattern name="Pipe-separated" pattern="^(?s)([^|]*)\|([^|]*)\|([^|]*)\|(.*)$" timePattern="HH:mm:ss.SSS" linePattern="^\d" timeId="0" severityId="1" categoryId="2" />
+        <LogParsingPattern name="IntelliJ IDEA" pattern="^([^\[]+)(\[[\s\d]+])\s*(\w*)\s*-\s*(\S*)\s*-(.+)$" timePattern="yyyy-MM-dd HH:mm:ss,SSS" linePattern="^\d" timeId="0" severityId="2" categoryId="3" />
+        <LogParsingPattern name="TeamCity build log" pattern="^\[([^]]+)](.):\s*(\[[^]]+])?(.*)$" timePattern="HH:mm:ss" linePattern="^\[" timeId="0" severityId="1" categoryId="2" />
+      </list>
+    </parsing>
+    <settingsVersion>3</settingsVersion>
+    <lastAddedDefaultFormat>3</lastAddedDefaultFormat>
+  </component>
+</application>

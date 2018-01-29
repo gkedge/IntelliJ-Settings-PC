@@ -1,43 +1,39 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="localCaseSensitive" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Project and Libraries" />
+    <option name="defaultScopeName" value="Project and Libraries" />
+    <option name="SEARCH_SCOPE" value="Project and Libraries" />
     <recentFileMasks>
-      <mask>we.xml</mask>
-      <mask>web.xml</mask>
-      <mask>,ace+*.py</mask>
-      <mask>,ace*.py</mask>
-      <mask>,ac*.py</mask>
-      <mask>,a*.py</mask>
-      <mask>,*.py</mask>
-      <mask>m*.py</mask>
-      <mask>ma*.py</mask>
-      <mask>mac*.py</mask>
-      <mask>mace*.py</mask>
-      <mask>mace_*.py</mask>
-      <mask>mace_m*.py</mask>
-      <mask>mace_mo*.py</mask>
-      <mask>mace_mod*.py</mask>
-      <mask>mace_moduce*.py</mask>
-      <mask>mace_moduc*.py</mask>
-      <mask>mace_modu*.py</mask>
-      <mask>mace_modul*.py</mask>
-      <mask>mace_module*.py</mask>
-      <mask>mace_modules\*.py</mask>
-      <mask>mace_modules*.py</mask>
-      <mask>mace_modules/*.py</mask>
+      <mask>unit_test_referen_data.sql</mask>
+      <mask>unit_test_refere_data.sql</mask>
+      <mask>unit_test_refer_data.sql</mask>
+      <mask>unit_test_refe_data.sql</mask>
+      <mask>unit_test_ref_data.sql</mask>
+      <mask>unit_test_re_data.sql</mask>
+      <mask>unit_test_r_data.sql</mask>
+      <mask>unit_test__data.sql</mask>
+      <mask>unit_test_data.sql</mask>
+      <mask>*T.sql</mask>
+      <mask>*Te.sql</mask>
+      <mask>*Test.sql</mask>
+      <mask>*Test.sq</mask>
+      <mask>*Test.s</mask>
+      <mask>*Test.</mask>
+      <mask>*Test.jav</mask>
+      <mask>*Test.java</mask>
+      <mask>java</mask>
+      <mask>.*</mask>
+      <mask>.</mask>
+      <mask>*.sql</mask>
+      <mask>.*java</mask>
+      <mask>.java</mask>
       <mask>*.jav</mask>
       <mask>*.ja</mask>
       <mask>*.j</mask>
-      <mask>*.py</mask>
-      <mask>*.p</mask>
-      <mask>*.</mask>
+      <mask>*.js</mask>
+      <mask>*.jsp</mask>
       <mask>*.java</mask>
+      <mask>*.jspx</mask>
     </recentFileMasks>
   </component>
 </application>

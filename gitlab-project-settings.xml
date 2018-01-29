@@ -11,6 +11,12 @@
           <option name="sshUrl" value="git@git.emeraldpoolsolutions.com:gkedge/crisp.git" />
         </ProjectDto>
         <ProjectDto>
+          <option name="httpUrl" value="https://git.emeraldpoolsolutions.com/gkedge/dev-env.git" />
+          <option name="name" value="dev-env" />
+          <option name="namespace" value="gkedge" />
+          <option name="sshUrl" value="git@git.emeraldpoolsolutions.com:gkedge/dev-env.git" />
+        </ProjectDto>
+        <ProjectDto>
           <option name="httpUrl" value="https://git.emeraldpoolsolutions.com/gkedge/mobix-idea.git" />
           <option name="name" value="mobix-idea" />
           <option name="namespace" value="gkedge" />

@@ -8,5 +8,6 @@
     <macro name="MBX_HOST" value="localhost" />
     <macro name="MBX_SERVER_CONFIG" value="C:/Users/gkedge.CARD/Projects/tomcat/MobixBase/StripedAlderBase/conf" />
     <macro name="TOMCAT_HOME" value="C:/Users/gkedge.CARD/Projects/tomcat/apache-tomcat-7.0.73" />
+    <macro name="ext.prop.dir" value="C:/Users/gkedge.CARD/Projects/Mobix/trunk_bug" />
   </component>
 </application>
