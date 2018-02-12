@@ -3,7 +3,7 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.properties" />
+    <option name="FILE_MASK" value="*.sql" />
     <recentFileMasks>
       <mask>unit_test_refer_data.sql</mask>
       <mask>unit_test_refe_data.sql</mask>
@@ -23,7 +23,6 @@
       <mask>java</mask>
       <mask>.*</mask>
       <mask>.</mask>
-      <mask>*.sql</mask>
       <mask>.*java</mask>
       <mask>.java</mask>
       <mask>*.jav</mask>
@@ -35,6 +34,7 @@
       <mask>web.xml</mask>
       <mask>*.java</mask>
       <mask>*.properties</mask>
+      <mask>*.sql</mask>
     </recentFileMasks>
   </component>
 </application>
