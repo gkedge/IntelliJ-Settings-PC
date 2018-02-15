@@ -5,6 +5,7 @@
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.jspx" />
     <recentFileMasks>
       <mask>unit_test_refer_data.sql</mask>
       <mask>unit_test_refe_data.sql</mask>
@@ -31,11 +32,11 @@
       <mask>*.j</mask>
       <mask>*.js</mask>
       <mask>*.jsp</mask>
-      <mask>*.jspx</mask>
       <mask>web.xml</mask>
       <mask>*.java</mask>
       <mask>*.properties</mask>
       <mask>*.sql</mask>
+      <mask>*.jspx</mask>
     </recentFileMasks>
   </component>
 </application>
