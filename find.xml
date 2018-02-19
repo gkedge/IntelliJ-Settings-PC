@@ -27,13 +27,13 @@
       <mask>*.jav</mask>
       <mask>*.ja</mask>
       <mask>*.j</mask>
-      <mask>*.js</mask>
       <mask>*.jsp</mask>
       <mask>web.xml</mask>
       <mask>*.properties</mask>
       <mask>*.sql</mask>
       <mask>*.jspx</mask>
       <mask>*.java</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
