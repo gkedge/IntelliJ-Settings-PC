@@ -7,8 +7,8 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.py" />
     <recentFileMasks>
-      <mask>unit_test_refer_data.sql</mask>
       <mask>unit_test_refe_data.sql</mask>
       <mask>unit_test_ref_data.sql</mask>
       <mask>unit_test_re_data.sql</mask>
@@ -38,6 +38,7 @@
       <mask>*.jspx</mask>
       <mask>*.js</mask>
       <mask>*.java</mask>
+      <mask>*.py</mask>
     </recentFileMasks>
   </component>
 </application>
