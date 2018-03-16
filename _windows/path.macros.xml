@@ -7,6 +7,9 @@
     <macro name="MAVEN_REPOSITORY" value="C:/Users/gkedge.CARD/.m2/repository" />
     <macro name="MBX_HOST" value="localhost" />
     <macro name="MBX_SERVER_CONFIG" value="C:/Users/gkedge.CARD/Projects/Mobix/Misc/tomcat/MobixBase/StripedAlderBase/conf" />
+    <macro name="MOBIX_MISC_PATH" value="C:/Users/gkedge.CARD/Projects/Mobix/Misc" />
+    <macro name="MOBIX_SVN_BASE" value="C:/Users/gkedge.CARD/Projects/Mobix" />
+    <macro name="REINSTALL_MACE_PATH" value="C:/Users/gkedge.CARD/Projects/Mobix/Misc/sh/reinstall_mace.sh" />
     <macro name="TOMCAT_HOME" value="C:/Users/gkedge.CARD/Projects/tomcat/apache-tomcat-7.0.73" />
   </component>
 </application>
