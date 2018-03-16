@@ -9,7 +9,6 @@
     <macro name="MBX_SERVER_CONFIG" value="C:/Users/gkedge.CARD/Projects/Mobix/Misc/tomcat/MobixBase/StripedAlderBase/conf" />
     <macro name="MOBIX_MISC_PATH" value="$MOBIX_SVN_BASE$/Misc" />
     <macro name="MOBIX_SVN_BASE" value="C:/Users/gkedge.CARD/Projects/Mobix" />
-    <macro name="REINSTALL_MACE_PATH" value="$MOBIX_MISC_PATH$/sh/reinstall_mace.sh" />
     <macro name="TOMCAT_HOME" value="C:/Users/gkedge.CARD/Projects/tomcat/apache-tomcat-7.0.73" />
   </component>
 </application>
