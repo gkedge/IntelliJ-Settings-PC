@@ -5,6 +5,7 @@
       <mapping pattern=".bashrc" type="Bash" />
       <mapping pattern="newSubscriberSearch.json" type="JSON" />
       <mapping pattern="AddEditDeviceForm.js" type="JavaScript" />
+      <mapping pattern="IntelliJ" type="Markdown" />
       <mapping ext="raw" type="Native" />
       <mapping pattern="SubjectSearchValidator" type="PLAIN_TEXT" />
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
