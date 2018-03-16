@@ -1,5 +1,6 @@
 <application>
   <component name="PathMacrosImpl">
+    <macro name="BASH_INTERPRETER" value="C:/Program Files/Git/bin" />
     <macro name="KOTLIN_BUNDLED" value="C:/Program Files (x86)/JetBrains/IntelliJ IDEA 2016.3.3/plugins/Kotlin/kotlinc" />
     <macro name="LP_DATA_DIRECTORY" value="C:/Users/gkedge.CARD/Projects/tomcat/MobixBase/LpBase/conf/files" />
     <macro name="LP_HOST" value="localhost" />
