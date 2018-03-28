@@ -7,7 +7,7 @@
     <option name="PRESERVE_CASE_REPLACE" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.jspx" />
     <recentFileMasks>
       <mask>unit_test_refe_data.sql</mask>
       <mask>unit_test_ref_data.sql</mask>
@@ -35,10 +35,10 @@
       <mask>web.xml</mask>
       <mask>*.properties</mask>
       <mask>*.sql</mask>
-      <mask>*.jspx</mask>
       <mask>*.py</mask>
       <mask>*.js</mask>
       <mask>*.java</mask>
+      <mask>*.jspx</mask>
     </recentFileMasks>
   </component>
 </application>
