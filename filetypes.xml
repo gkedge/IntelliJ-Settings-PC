@@ -26,6 +26,7 @@
       <mapping ext="info" type="PLAIN_TEXT" />
       <mapping ext="ks" type="PLAIN_TEXT" />
       <mapping pattern="open_mic_stream_details" type="Python" />
+      <mapping pattern="test_e2e_contacts" type="Python" />
       <mapping pattern="test_mobix_time" type="PythonStub" />
     </extensionMap>
   </component>
