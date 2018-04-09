@@ -1,12 +1,11 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
-    <option name="preserveCase" value="true" />
-    <option name="PRESERVE_CASE_REPLACE" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
     <recentFileMasks>
-      <mask>unit_test_refe_data.sql</mask>
       <mask>unit_test_ref_data.sql</mask>
       <mask>unit_test_re_data.sql</mask>
       <mask>unit_test_r_data.sql</mask>
@@ -36,6 +35,7 @@
       <mask>*.js</mask>
       <mask>*.java</mask>
       <mask>*.jspx</mask>
+      <mask>conftest.py</mask>
     </recentFileMasks>
   </component>
 </application>
