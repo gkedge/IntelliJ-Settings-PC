@@ -5,6 +5,12 @@
     <option name="projects">
       <list>
         <ProjectDto>
+          <option name="httpUrl" value="http://10.220.20.179/gkedge/e2e_riptide.git" />
+          <option name="name" value="e2e_riptide" />
+          <option name="namespace" value="gkedge" />
+          <option name="sshUrl" value="git@10.220.20.179:gkedge/e2e_riptide.git" />
+        </ProjectDto>
+        <ProjectDto>
           <option name="httpUrl" value="http://10.220.20.179/gkedge/mobix-misc.git" />
           <option name="name" value="mobix-misc" />
           <option name="namespace" value="gkedge" />
