@@ -1,45 +1,20 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="localCaseSensitive" value="true" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <recentFileMasks>
-      <mask>unit_test_ref_data.sql</mask>
-      <mask>unit_test_re_data.sql</mask>
-      <mask>unit_test_r_data.sql</mask>
-      <mask>unit_test__data.sql</mask>
-      <mask>unit_test_data.sql</mask>
-      <mask>*T.sql</mask>
-      <mask>*Te.sql</mask>
-      <mask>*Test.sql</mask>
-      <mask>*Test.sq</mask>
-      <mask>*Test.s</mask>
-      <mask>*Test.</mask>
-      <mask>*Test.jav</mask>
-      <mask>*Test.java</mask>
-      <mask>java</mask>
-      <mask>.*</mask>
-      <mask>.</mask>
-      <mask>.*java</mask>
-      <mask>.java</mask>
-      <mask>*.jav</mask>
-      <mask>*.ja</mask>
-      <mask>*.j</mask>
-      <mask>*.jsp</mask>
-      <mask>web.xml</mask>
-      <mask>*.properties</mask>
-      <mask>*.sql</mask>
-      <mask>*.py</mask>
-      <mask>*.js</mask>
-      <mask>*.java</mask>
-      <mask>*.jspx</mask>
-      <mask>conftest.py</mask>
-    </recentFileMasks>
+    <option name="FILE_MASK" value="*.jspx" />
+    <mask>*.properties</mask>
+    <mask>*.html</mask>
+    <mask>*.jsp</mask>
+    <mask>*.xml</mask>
+    <mask>*.java</mask>
+    <mask>*.js</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>*.jspx</mask>
   </component>
 </application>
