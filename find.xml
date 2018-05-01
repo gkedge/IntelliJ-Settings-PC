@@ -3,10 +3,9 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="localCaseSensitive" value="true" />
-    <option name="wholeWordsOnly" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.less" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -18,5 +17,6 @@
     <mask>*.mxml</mask>
     <mask>*.py</mask>
     <mask>conftest.py</mask>
+    <mask>*.less</mask>
   </component>
 </application>
