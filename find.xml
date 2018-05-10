@@ -17,5 +17,6 @@
     <mask>*.py</mask>
     <mask>conftest.py</mask>
     <mask>*.less</mask>
+    <mask>*.xhtml</mask>
   </component>
 </application>
