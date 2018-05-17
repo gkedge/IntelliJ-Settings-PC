@@ -74,10 +74,8 @@
     </option>
     <option name="cloneParentDir" value="C:\Users\gkedge.CARD\Projects" />
   </component>
-  <component name="Vcs.Log.App.Settings">
-    <option name="MIGRATED" value="true" />
-  </component>
   <component name="VcsApplicationSettings">
     <option name="PATCH_STORAGE_LOCATION" value="H:/Workspace Backups/PyCharm Riptide Backup" />
+    <option name="SHOW_LST_WORD_DIFFERENCES" value="false" />
   </component>
 </application>
