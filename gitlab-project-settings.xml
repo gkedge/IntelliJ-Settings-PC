@@ -5,6 +5,60 @@
     <option name="projects">
       <list>
         <ProjectDto>
+          <option name="httpUrl" value="https://git.emeraldpoolsolutions.com/gkedge/crisp.git" />
+          <option name="name" value="crisp" />
+          <option name="namespace" value="gkedge" />
+          <option name="sshUrl" value="git@git.emeraldpoolsolutions.com:gkedge/crisp.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://git.emeraldpoolsolutions.com/gkedge/dev-env.git" />
+          <option name="name" value="dev-env" />
+          <option name="namespace" value="gkedge" />
+          <option name="sshUrl" value="git@git.emeraldpoolsolutions.com:gkedge/dev-env.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://git.emeraldpoolsolutions.com/gkedge/mobix-idea.git" />
+          <option name="name" value="mobix-idea" />
+          <option name="namespace" value="gkedge" />
+          <option name="sshUrl" value="git@git.emeraldpoolsolutions.com:gkedge/mobix-idea.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://git.emeraldpoolsolutions.com/gkedge/Mobix-Misc.git" />
+          <option name="name" value="Mobix-Misc" />
+          <option name="namespace" value="gkedge" />
+          <option name="sshUrl" value="git@git.emeraldpoolsolutions.com:gkedge/Mobix-Misc.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://git.emeraldpoolsolutions.com/gkedge/react-audio-stream.git" />
+          <option name="name" value="react-audio-stream" />
+          <option name="namespace" value="gkedge" />
+          <option name="sshUrl" value="git@git.emeraldpoolsolutions.com:gkedge/react-audio-stream.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://git.emeraldpoolsolutions.com/gkedge/room-to-react.git" />
+          <option name="name" value="room-to-react" />
+          <option name="namespace" value="gkedge" />
+          <option name="sshUrl" value="git@git.emeraldpoolsolutions.com:gkedge/room-to-react.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://git.emeraldpoolsolutions.com/interview-examples/sys-config-ro-cache.git" />
+          <option name="name" value="sys-config-ro-cache" />
+          <option name="namespace" value="interview-examples" />
+          <option name="sshUrl" value="git@git.emeraldpoolsolutions.com:interview-examples/sys-config-ro-cache.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://git.emeraldpoolsolutions.com/tiff-to-png-app/png-client-scale.git" />
+          <option name="name" value="png-client-scale" />
+          <option name="namespace" value="tiff-to-png-app" />
+          <option name="sshUrl" value="git@git.emeraldpoolsolutions.com:tiff-to-png-app/png-client-scale.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://git.emeraldpoolsolutions.com/tiff-to-png-app/tiff-to-scaled-png-rest.git" />
+          <option name="name" value="tiff-to-scaled-png-rest" />
+          <option name="namespace" value="tiff-to-png-app" />
+          <option name="sshUrl" value="git@git.emeraldpoolsolutions.com:tiff-to-png-app/tiff-to-scaled-png-rest.git" />
+        </ProjectDto>
+        <ProjectDto>
           <option name="httpUrl" value="http://10.220.20.179/gkedge/e2e_riptide.git" />
           <option name="name" value="e2e_riptide" />
           <option name="namespace" value="gkedge" />
@@ -27,6 +81,12 @@
           <option name="name" value="riptide_v1" />
           <option name="namespace" value="mobix_automation" />
           <option name="sshUrl" value="git@10.220.20.179:mobix_automation/riptide_v1.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://10.220.20.179/spierce/MobixFortify.git" />
+          <option name="name" value="MobixFortify" />
+          <option name="namespace" value="spierce" />
+          <option name="sshUrl" value="git@10.220.20.179:spierce/MobixFortify.git" />
         </ProjectDto>
       </list>
     </option>
