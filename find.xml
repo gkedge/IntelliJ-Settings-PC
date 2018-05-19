@@ -15,7 +15,9 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.py</mask>
-    <mask>.py</mask>
     <mask>conftest.py</mask>
+    <mask>*.less</mask>
+    <mask>*.xhtml</mask>
+    <mask>*Viewer.java</mask>
   </component>
 </application>
