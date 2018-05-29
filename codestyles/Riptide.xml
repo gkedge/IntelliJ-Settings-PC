@@ -31,20 +31,6 @@
     <option name="TRIM_TRAILING_WHITE_SPACES" value="true" />
     <option name="LEADING_WHITE_SPACES" value="true" />
   </CsvCodeStyleSettings>
-  <HTMLCodeStyleSettings>
-    <option name="HTML_ATTRIBUTE_WRAP" value="4" />
-    <option name="HTML_ALIGN_TEXT" value="true" />
-    <option name="HTML_KEEP_WHITESPACES_INSIDE" value="pre" />
-    <option name="HTML_INLINE_ELEMENTS" value="abbr,acronym,b,basefont,bdo,big,br,cite,cite,code,dfn,em,font,i,kbd,label,q,s,samp,strike,strong,sub,sup,u,var" />
-    <option name="HTML_DONT_ADD_BREAKS_IF_INLINE_CONTENT" value="title" />
-  </HTMLCodeStyleSettings>
-  <JSON>
-    <option name="PROPERTY_ALIGNMENT" value="1" />
-  </JSON>
-  <MarkdownNavigatorCodeStyleSettings>
-    <option name="WRAP_ON_TYPING" value="0" />
-    <option name="RIGHT_MARGIN" value="72" />
-  </MarkdownNavigatorCodeStyleSettings>
   <DBN-PSQL>
     <case-options enabled="false">
       <option name="KEYWORD_CASE" value="lower" />
@@ -55,10 +41,6 @@
     </case-options>
     <formatting-settings enabled="false" />
   </DBN-PSQL>
-  <Python>
-    <option name="OPTIMIZE_IMPORTS_SORT_NAMES_IN_FROM_IMPORTS" value="true" />
-    <option name="OPTIMIZE_IMPORTS_JOIN_FROM_IMPORTS_WITH_SAME_SOURCE" value="true" />
-  </Python>
   <DBN-SQL>
     <case-options enabled="false">
       <option name="KEYWORD_CASE" value="lower" />
@@ -73,6 +55,25 @@
       <option name="ITERATION_ELEMENTS_WRAPPING" value="chop_down_if_not_single" />
     </formatting-settings>
   </DBN-SQL>
+  <HTMLCodeStyleSettings>
+    <option name="HTML_ATTRIBUTE_WRAP" value="4" />
+    <option name="HTML_ALIGN_TEXT" value="true" />
+    <option name="HTML_KEEP_WHITESPACES_INSIDE" value="pre" />
+    <option name="HTML_INLINE_ELEMENTS" value="abbr,acronym,b,basefont,bdo,big,br,cite,cite,code,dfn,em,font,i,kbd,label,q,s,samp,strike,strong,sub,sup,u,var" />
+    <option name="HTML_DONT_ADD_BREAKS_IF_INLINE_CONTENT" value="title" />
+  </HTMLCodeStyleSettings>
+  <JSON>
+    <option name="PROPERTY_ALIGNMENT" value="1" />
+  </JSON>
+  <MarkdownNavigatorCodeStyleSettings>
+    <option name="WRAP_ON_TYPING" value="0" />
+    <option name="SMART_EDIT_TABLES" value="true" />
+    <option name="RIGHT_MARGIN" value="72" />
+  </MarkdownNavigatorCodeStyleSettings>
+  <Python>
+    <option name="OPTIMIZE_IMPORTS_SORT_NAMES_IN_FROM_IMPORTS" value="true" />
+    <option name="OPTIMIZE_IMPORTS_JOIN_FROM_IMPORTS_WITH_SAME_SOURCE" value="true" />
+  </Python>
   <XML>
     <option name="XML_ATTRIBUTE_WRAP" value="0" />
     <option name="XML_TEXT_WRAP" value="0" />
@@ -159,6 +160,5 @@
   </codeStyleSettings>
   <codeStyleSettings language="TypeScript">
     <option name="WRAP_COMMENTS" value="true" />
-    <option name="PARENT_SETTINGS_INSTALLED" value="true" />
   </codeStyleSettings>
 </code_scheme>
