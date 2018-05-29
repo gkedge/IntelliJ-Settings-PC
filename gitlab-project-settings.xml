@@ -101,15 +101,7 @@
           <option name="token" value="LamS6Zcyj9eeQLBF8Cy1" />
         </ServerDto>
         <ServerDto>
-          <option name="host" value="https://gitlab.card.core" />
-          <option name="token" value="zzxZZUKzBfTDosdybfyq" />
-        </ServerDto>
-        <ServerDto>
-          <option name="host" value="http://10.220.20.179/gkedge/e2e_riptide.git/" />
-          <option name="token" value="HXc7MKyzWo5V32sMCgPq" />
-        </ServerDto>
-        <ServerDto>
-          <option name="host" value="http://gitlab.card.core/gkedge/e2e_riptide.git/" />
+          <option name="host" value="http://gkedge@gitlab.card.core/gkedge/e2e_riptide.git" />
           <option name="token" value="HXc7MKyzWo5V32sMCgPq" />
         </ServerDto>
       </list>
