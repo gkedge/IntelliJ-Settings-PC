@@ -1,7 +1,7 @@
 <application>
   <component name="SettingsState">
-    <option name="host" value="http://10.220.20.179/gkedge/mobix-misc.git" />
-    <option name="token" value="zzxZZUKzBfTDosdybfyq" />
+    <option name="host" value="http://gitlab.card.core/gkedge/e2e_riptide.git/" />
+    <option name="token" value="HXc7MKyzWo5V32sMCgPq" />
     <option name="projects">
       <list>
         <ProjectDto>
@@ -83,6 +83,12 @@
           <option name="sshUrl" value="git@10.220.20.179:mobix_automation/riptide_v1.git" />
         </ProjectDto>
         <ProjectDto>
+          <option name="httpUrl" value="http://10.220.20.179/riptide/riptide-may18.git" />
+          <option name="name" value="riptide-may18" />
+          <option name="namespace" value="riptide" />
+          <option name="sshUrl" value="git@10.220.20.179:riptide/riptide-may18.git" />
+        </ProjectDto>
+        <ProjectDto>
           <option name="httpUrl" value="http://10.220.20.179/spierce/MobixFortify.git" />
           <option name="name" value="MobixFortify" />
           <option name="namespace" value="spierce" />
@@ -105,16 +111,12 @@
           <option name="token" value="zzxZZUKzBfTDosdybfyq" />
         </ServerDto>
         <ServerDto>
-          <option name="host" value="http://10.220.20.179/gkedge" />
-          <option name="token" value="zzxZZUKzBfTDosdybfyq" />
+          <option name="host" value="http://10.220.20.179/gkedge/e2e_riptide.git/" />
+          <option name="token" value="HXc7MKyzWo5V32sMCgPq" />
         </ServerDto>
         <ServerDto>
-          <option name="host" value="http://10.220.20.179/gkedge/mobix-misc.git" />
-          <option name="token" value="zzxZZUKzBfTDosdybfyq" />
-        </ServerDto>
-        <ServerDto>
-          <option name="host" value="http://gitlab.card.core/gkedge/mobix-misc.git" />
-          <option name="token" value="yYj_AZfGGyyLAX-Bgv47" />
+          <option name="host" value="http://gitlab.card.core/gkedge/e2e_riptide.git/" />
+          <option name="token" value="HXc7MKyzWo5V32sMCgPq" />
         </ServerDto>
       </list>
     </option>
