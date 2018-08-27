@@ -7,8 +7,8 @@
           <option name="formatter" value="ECLIPSE" />
           <option name="id" value="1478797502772" />
           <option name="name" value="default" />
-          <option name="pathToConfigFileJS" value="$USER_HOME$/Projects/Mobix/branches/TheIntelliJVirus/docs/javaScriptCodeFormatter.xml" />
-          <option name="pathToConfigFileJava" value="$USER_HOME$/Projects/Mobix/branches/TheIntelliJVirus/docs/javaCodeFormatter.xml" />
+          <option name="pathToConfigFileJS" value="$USER_HOME$/Projects/Mobix/trunk/docs/javaScriptCodeFormatter.xml" />
+          <option name="pathToConfigFileJava" value="$USER_HOME$/Projects/Mobix/trunk/docs/javaCodeFormatter.xml" />
           <option name="selectedJavaProfile" value="Mobix Java Code Formatter" />
           <option name="selectedJavaScriptProfile" value="Mobix JavaScript Code Formatter" />
         </Settings>
