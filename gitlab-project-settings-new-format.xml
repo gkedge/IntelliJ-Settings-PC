@@ -1,0 +1,13 @@
+<application>
+  <component name="SettingsState">
+    <option name="gitlabServers">
+      <list>
+        <GitlabServer>
+          <option name="apiUrl" value="https://gitlab.card.core" />
+          <option name="preferredConnection" value="HTTPS" />
+          <option name="repositoryUrl" value="https://gitlab.card.core/mobix/mobix" />
+        </GitlabServer>
+      </list>
+    </option>
+  </component>
+</application>
