@@ -1,9 +1,9 @@
 <application>
   <component name="StringManipulationState">
-    <option name="donationNagger">
-      <DonationNagger>
-        <option name="actionsExecuted" value="5" />
-      </DonationNagger>
+    <option name="sortSettings">
+      <SortSettings>
+        <option name="collatorLanguageTag" value="en_US" />
+      </SortSettings>
     </option>
   </component>
 </application>
