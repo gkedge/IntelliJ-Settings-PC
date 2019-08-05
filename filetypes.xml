@@ -17,9 +17,12 @@
       <mapping pattern=".reduxrc" type="PLAIN_TEXT" />
       <mapping ext="info" type="PLAIN_TEXT" />
       <mapping ext="ks" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <mapping pattern="test_e2e_contacts" type="Python" />
+      <mapping pattern="open_mic_stream_details" type="Python" />
+      <mapping pattern="test_mobix_time" type="PythonStub" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
@@ -36,9 +39,6 @@
       <mapping ext="tps" type="DBN-PSQL" />
       <mapping ext="trg" type="DBN-PSQL" />
       <mapping ext="vw" type="DBN-SQL" />
-      <mapping pattern="open_mic_stream_details" type="Python" />
-      <mapping pattern="test_e2e_contacts" type="Python" />
-      <mapping pattern="test_mobix_time" type="PythonStub" />
     </extensionMap>
   </component>
 </application>
